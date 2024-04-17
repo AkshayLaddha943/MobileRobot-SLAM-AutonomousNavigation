@@ -9,7 +9,7 @@ Navigating the mobile robot within a complex house environment with a LIDAR, Cam
 ## SLAM
 
 <div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center;">
+    <div style="text-align: left;">
         <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/slam_toolbox.jpg" height="150" width="150" alt="slam_toolbox">
         <br>
         <em>slam_toolbox</em>
@@ -21,7 +21,7 @@ Navigating the mobile robot within a complex house environment with a LIDAR, Cam
         <em>gmapping</em>
     </div>
 
-   <div style="text-align: center;">
+   <div style="text-align: right;">
         <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/rtabmap.png" height="150" width="150" alt="rtabmap">
         <br>
         <em>rtab-map</em>
