@@ -15,13 +15,13 @@ Navigating the mobile robot within a complex house environment with a LIDAR, Cam
         <em>slam_toolbox</em>
     </div>
 
-    <div style="text-align: center;">
+<div style="text-align: center;">
         <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/gmapping.jpg" height="150" width="150" alt="gmapping">
         <br>
         <em>gmapping</em>
     </div>
 
-    <div style="text-align: center;">
+<div style="text-align: center;">
         <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/rtabmap.png" height="150" width="150" alt="rtabmap">
         <br>
         <em>rtab-map</em>
