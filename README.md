@@ -10,7 +10,7 @@ Navigating the mobile robot within a complex house environment with a LIDAR, Cam
 
 <p align="center">
     <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/slam_toolbox.jpg" height="250" width="250" alt="slam_toolbox">
-    <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/gmapping.jpg" height="250" width="250" alt="gmapping">
+    <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/gmapping.jpg" height="250" width="250" alt="gmapping"><figcaption>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</figcaption>
     <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/rtabmap.png" height="250" width="250" alt="rtabmap">
 </p>
 
