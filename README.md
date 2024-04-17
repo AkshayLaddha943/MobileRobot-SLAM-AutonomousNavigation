@@ -9,9 +9,9 @@ Navigating the mobile robot within a complex house environment with a LIDAR, Cam
 ## SLAM
 
 <p float="left">
-  <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/slam_toolbox.jpg" width="100" />
-  <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/gmapping.jpg" width="100" /> 
-  <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/rtabmap.png" width="100" />
+  <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/slam_toolbox.jpg" width="300" />
+  <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/gmapping.jpg" width="300" /> 
+  <img src="https://github.com/AkshayLaddha943/MobileRobot-SLAM-AutonomousNavigation/blob/main/images/rtabmap.png" width="300" />
 </p>
 
 
